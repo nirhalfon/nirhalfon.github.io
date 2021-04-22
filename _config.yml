@@ -4,21 +4,21 @@ baseurl: https://nirhalfon.com/
 # Site settings
 title: Nir Halfon - CyberSecurity Consulting
 email: consult@nirhalfon.com
-description: "Nir Halfon CyberSecurity Consulting | Digital Forensics | Incident Response | Security Analyst | Big Data Expert | Threat Hunting"
+description: "Nir Halfon CyberSecurity Consulting | Digital Forensics | Incident Response | Security Analyst | Threat Hunting | SOC Managment | Training"
 
 
 # Team names, titles and social links
 people:
 - name: Nir Halfon
   pic: 1
-  position: CEO
+  position: Mastering the Digital Forensics Incident Response
   social:
     - title: twitter
       url: https://twitter.com/nirhalfon1
     - title: facebook
       url: https://www.facebook.com/nir.halfon/
-    - title: stack-overflow
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/nirhalfon/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -26,12 +26,9 @@ social:
     url: https://twitter.com/nirhalfon1
   - title: facebook
     url: https://www.facebook.com/nir.halfon/
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/nirhalfon
+    - title: linkedin
+      url: https://www.linkedin.com/in/nirhalfon/
+
 
 # Postal address (add as many lines as necessary)
 address:
